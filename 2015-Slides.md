@@ -18,6 +18,10 @@ Flickr group pool (add your own photos here!): https://www.flickr.com/groups/289
 
 _Sessions are listed alphabeticaly by session name_
 
+## Advanced UX Design for Apple Watch
+Shawn Davison
+
+* Video: https://vimeo.com/137545605
 
 ## Android 101 for iOS Developers
 Stephen Barnes [@smbarnes](https://twitter.com/smbarnes)
@@ -29,6 +33,13 @@ Slides/Code: https://github.com/smbarne/AndroidForiOS
 Stepan Hruda [@stepanhruda](https://twitter.com/stepanhruda)
 
 * Slides: https://speakerdeck.com/stepanhruda/apple-pay-what-happens-when-you-tap
+* Video: https://vimeo.com/137558116
+
+
+## Beyond the Banner: How to Scale Your Revenue with Innovative Ad Formats
+James Hughes
+
+* Video: https://vimeo.com/137548959
 
 
 ## Beyond White: Embracing the iOS Design Aesthetic
@@ -82,7 +93,7 @@ Kendall Helmstetter Gelner [@kendalldevdiary](https://twitter.com/kendalldevdiar
 Curtis Herbert [@parrots](https://twitter.com/parrots)
 
 * Slides: https://speakerdeck.com/parrots/360idev-designing-for-at-1x-at-3x-without-going-crazy
-
+* Video: https://vimeo.com/137561771
 
 ## Fancy Custom Transitions
 Grant Davis [@gravitybytes](https://twiter.com/gravitybytes)
@@ -162,6 +173,11 @@ Gene Whitaker [@gene_whitaker](https://twitter.com/gene_whitaker)
 
 * Slides/Code: http://www.bombingbrain.com/360iDev2015/360iDev-TextKit.zip
 
+
+## Mastering Auto Layout
+Justin Williams
+
+* Video: https://vimeo.com/137550517
 
 ## The Power of Working Code and Designers Who Develop
 Ellen Shapiro [@designatednerd](https://twitter.com/designatednerd)
@@ -245,6 +261,11 @@ Greg Heo [@gregheo](https://twitter.com/gregheo)
 * Slides: http://gregheo.com/blog/switching-your-brain-to-swift/
 * Test project for Objective-C/Swift bridging: https://github.com/gregheo/MacBridger
 
+## The Last Job
+Kyle Richter
+
+* Video: https://vimeo.com/137560485
+
 
 ## UISearchController with a UICollectionView
 Jeremiah Gage [@jeremiahgage](https://twitter.com/jeremiahgage)
@@ -271,6 +292,10 @@ Michael Ayers [@turbotomato](https://twitter.com/turbotomato)
 
 * Slides: https://www.dropbox.com/s/gfiz9ws8kcoa20l/2015_360iDev_NineOldMen.pdf?dl=0
 
+## What’s in for us after the Indiepocalipse?
+Marin Todorov
+
+* Video: https://vimeo.com/137559415
 
 ## What's New in Hybrid App Development
 Jay Graves [@skabber](https://twitter.com/skabber)
